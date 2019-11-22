@@ -12,10 +12,10 @@ if(isset($_POST["txt_login"]) && isset($_POST["txt_mdp"]))
 
     if($login != "1" && $mdp != "2")
     {
-        result("Non");
+        result("Authentification échouée");
     }
     else
     {
-        result("Oui");
+        result("Authentification réussie");
     }
 }
