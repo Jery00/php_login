@@ -1,0 +1,11 @@
+body
+{
+    background-image: url("../img/359145.jpg");
+}
+
+input
+{
+    width: 50%;
+    text-align: center;
+    border-style: hidden;
+}
