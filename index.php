@@ -24,7 +24,7 @@
                
             ?>
 
-            <form action="control.php" method="post">
+            <form action="controler.php" method="post">
                 <label>Login</label>
                 <br>
                 <input type="text" placeholder="Entrez le pseudo" name="txt_login" required><br><br>
